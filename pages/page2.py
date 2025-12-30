@@ -1,6 +1,5 @@
 import streamlit as st
 from PIL import Image
-import matplotlib.pyplot as plt
 
 st.title('タイトル')
 st.caption('内容')
